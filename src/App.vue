@@ -20,7 +20,7 @@ import HelloWorld from './components/HelloWorld.vue'
   class="flex flex-col rounded-lg bg-cyan-500 shadow-lg shadow-cyan-500/50 dark:bg-neutral-700 md:max-w-xl md:flex-row ">
   <img
     class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
-    src="forvite.jpeg"
+    src="\src\assets\forvite.jpeg"
     alt="" />
   <div class="flex flex-col justify-start p-6 rounded-r-lg bg-sky-500/50" >
     <h5
