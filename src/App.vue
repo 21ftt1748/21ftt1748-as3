@@ -31,7 +31,7 @@ import HelloWorld from './components/HelloWorld.vue'
       Group: DWDT07<br>
       Diploma In Web Development<br>
       Student ID: 21FTT1748<br>
-      Contact: +673 7147341<br>
+      Hobby: Sing<br>
     </p>
     <p class="text-xs text-neutral-500 dark:text-neutral-300">
       Student Email: 21ftt1748@stdent.pb.edu.bn
